@@ -1,4 +1,4 @@
-# dmoney-api-automation-b5
+# dmoney-api-testing-farzana
 
 ## Technology and tool used
 - postman
