@@ -24,3 +24,13 @@
 ## API document
 https://documenter.getpostman.com/view/10450628/2s7ZT7x62D
 
+## Test Cases
+https://docs.google.com/spreadsheets/d/1hHRFpEcEzWMsd87mMVnwQMsQ5kVzgx1q1YWcFNG5tNc/edit?usp=sharing
+
+## Issue Report
+https://docs.google.com/spreadsheets/d/1vCBwKJ7oLPOHlIElkrXCd7qu-7dIk8ZmiKzqX5ml1Kw/edit?usp=sharing
+
+## Output
+![Newman-Summary-Report](https://user-images.githubusercontent.com/47137266/192088709-59c052cb-5402-45b4-947b-6b3701f74659.png)
+
+![Newman-Iteration-Report (1)](https://user-images.githubusercontent.com/47137266/192088725-76062e1b-ce4b-42f6-a6f2-22f47ab8e03f.png)
