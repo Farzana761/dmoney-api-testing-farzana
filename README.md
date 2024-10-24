@@ -24,9 +24,6 @@
 ## API document
 https://documenter.getpostman.com/view/10450628/2s7ZT7x62D
 
-## Test Cases
-https://docs.google.com/spreadsheets/d/1hHRFpEcEzWMsd87mMVnwQMsQ5kVzgx1q1YWcFNG5tNc/edit?usp=sharing
-
 ## Issue Report
 https://docs.google.com/spreadsheets/d/1vCBwKJ7oLPOHlIElkrXCd7qu-7dIk8ZmiKzqX5ml1Kw/edit?usp=sharing
 
